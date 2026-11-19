@@ -1,9 +1,9 @@
-cs @ waterloo · [linkedin](https://linkedin.com/in/pranjwal-singh) · [portfolio](https://pranjwal-singh.vercel.app)
+## hey there
 
-currently on co-op at **definity** — building agents with ADK and MCP, RAG pipelines, and browser automation with Playwright
+cs @ uwaterloo 
 
-working on **[JobScout](https://jobscout-kappa-rouge.vercel.app)** — job search assistant. FastAPI · React · Supabase
+co-op at **[definity](https://www.definityfinancial.com/English/overview/default.aspx)** — building agents with ADK and MCP, RAG pipelines, and browser automation with Playwright
 
-```
-python · typescript · fastapi · react · playwright · rag · llm orchestration · postgres · redis
-```
+working on **[JobScout](https://jobscout-kappa-rouge.vercel.app)** — job search assistant.
+
+[linkedin](https://linkedin.com/in/pranjwal-singh) · [portfolio](https://pranjwal-singh.vercel.app)
